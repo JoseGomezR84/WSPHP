@@ -1,4 +1,5 @@
-# WSPHP
+# WebSocket php
+
 Documentacion WebSocket php
 
 Web socket desarrollado con el lenguaje de progrmacion php y la libreria ratchet.
