@@ -453,7 +453,19 @@ Instalar nuestro servidor WebSocket en un servidor php en la nube
         }
     },
 
-el archivo completo deberia verse asi: 
+el archivo completo deberia verse asi:
+
+	{
+    "autoload": {
+        "psr-4": {
+            "MyApp\\": "src"
+        }
+    },
+    "require": {
+        "cboden/ratchet": "^0.4.3"
+    }
+	}
+
 
 5) Ejecutamos dentro de nuestro servidor el comando composer update 
 
