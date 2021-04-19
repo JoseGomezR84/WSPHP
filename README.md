@@ -439,7 +439,7 @@ Instalar nuestro servidor WebSocket en un servidor php en la nube
  
 	php ~/composer.phar require cboden/ratchet
 
-3) Copiamos y pegamos las carpetas bin, db, logs, src con sus respectivos archivos.
+3)Copiamos y pegamos las carpetas bin, db, logs, src con sus respectivos archivos.
 
 4)Dentro de la carpeta vendor/cboden/ratchet/server el archivo IoServer.php en la funcion  handleConnect agregamos esta variable que nos permitira obtener el puerto de una nueva conexion 
 
