@@ -475,7 +475,7 @@ el archivo completo deberia verse asi:
 
 7)Nuestro servidor estara corriendo dentro de la consola dode podremos ver todos los movimientos de conexiones que se hacen detro de este mismo.
 
-8)Si tiene problemas trate de crear las carpetas y los archivos manualmente y copie y pegue el codigo 
+8)Si tiene problemas trate de crear las carpetas y los archivos manualmente, copie y pegue el codigo 
  
 
 
