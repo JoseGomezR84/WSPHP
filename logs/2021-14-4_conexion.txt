@@ -1,0 +1,181 @@
+
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-15:1:3
+****************
+****************
+Cliente desconectado :127.0.0.1 Hora de desconexion : 2021-4-14-15:1:3
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-15:1:7
+****************
+****************
+Cliente desconectado :127.0.0.1 Hora de desconexion : 2021-4-14-15:1:7
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-15:2:35
+****************
+****************
+Cliente desconectado :127.0.0.1 Hora de desconexion : 2021-4-14-15:4:32
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-15:53:29
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-15:54:11
+****************
+****************
+Cliente desconectado :127.0.0.1 Hora de desconexion : 2021-4-14-15:57:41
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-16:12:14
+****************
+****************
+Cliente desconectado :127.0.0.1 Hora de desconexion : 2021-4-14-16:12:31
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-16:12:58
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-16:14:35
+****************
+****************
+Cliente desconectado :127.0.0.1 Hora de desconexion : 2021-4-14-16:16:43
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-16:16:46
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-16:16:57
+****************
+****************
+Cliente desconectado :127.0.0.1 Hora de desconexion : 2021-4-14-16:18:47
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-17:13:34
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-17:14:32
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-20:49:56
+****************
+****************
+Cliente desconectado :127.0.0.1 Hora de desconexion : 2021-4-14-20:49:56
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-20:52:29
+****************
+****************
+Cliente desconectado :127.0.0.1 Hora de desconexion : 2021-4-14-20:52:29
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-21:4:1
+****************
+****************
+Cliente desconectado :127.0.0.1 Hora de desconexion : 2021-4-14-21:4:2
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-21:4:4
+****************
+****************
+Cliente desconectado :127.0.0.1 Hora de desconexion : 2021-4-14-21:4:4
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-21:5:49
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-21:6:42
+****************
+****************
+Cliente desconectado :127.0.0.1 Hora de desconexion : 2021-4-14-21:6:42
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-21:6:44
+****************
+****************
+Cliente desconectado :127.0.0.1 Hora de desconexion : 2021-4-14-21:6:44
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-21:8:55
+****************
+****************
+Cliente desconectado :127.0.0.1 Hora de desconexion : 2021-4-14-21:8:55
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-21:12:22
+****************
+****************
+Cliente desconectado :127.0.0.1 Hora de desconexion : 2021-4-14-21:12:22
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-21:13:27
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-21:30:33
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-21:31:27
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-21:45:54
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-21:46:26
+****************
+****************
+Cliente desconectado :127.0.0.1 Hora de desconexion : 2021-4-14-21:46:40
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-21:46:41
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-21:47:14
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-21:47:23
+****************
+****************
+Cliente desconectado :127.0.0.1 Hora de desconexion : 2021-4-14-21:48:43
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-21:48:56
+****************
+****************
+Cliente desconectado :127.0.0.1 Hora de desconexion : 2021-4-14-21:49:2
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-21:49:4
+****************
+****************
+Cliente desconectado :127.0.0.1 Hora de desconexion : 2021-4-14-21:49:12
+****************
+****************
+Cliente desconectado :127.0.0.1 Hora de desconexion : 2021-4-14-22:13:41
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-22:33:29
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-22:33:59
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-22:34:13
+****************
+****************
+Cliente desconectado :127.0.0.1 Hora de desconexion : 2021-4-14-22:34:59
+****************
+****************
+Cliente desconectado :127.0.0.1 Hora de desconexion : 2021-4-14-22:35:1
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-23:34:6
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-23:50:10
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-23:50:52
+****************
+****************
+Cliente conectado :127.0.0.1 Hora de conexion : 2021-4-14-23:59:42
+****************
