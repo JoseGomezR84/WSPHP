@@ -16,7 +16,8 @@ Metodos predefinidos del webSocket
 
 Metodo onOpen en este recibimos todas las conexiones y enviamos el resultado de la conexión.
 
-public function onOpen(ConnectionInterface $conn) {
+
+	public function onOpen(ConnectionInterface $conn) {
          // Store the new connection to send messages to later
          $this->clients->attach($conn);
          echo "New connection! ({$conn->remoteAddress})\n";
@@ -35,19 +36,19 @@ public function onOpen(ConnectionInterface $conn) {
          $fecha = getdate();
          if (file_exists("../logs/".$fecha['year']."-".$fecha['mday']."-".$fecha['mon']."_conexion.txt")){
             $archivo = fopen("../logs/".$fecha['year']."-".$fecha['mday']."-".$fecha['mon']."_conexion.txt", "a");
-            fwrite($archivo,PHP_EOL ."****************\nCliente conectado :".$conn->remoteAddress." Hora de conexion : ".$fecha['year']."-".$fecha['mon']."-".$fecha['mday']."-".$fecha['hours'].":".$fecha['minutes'].":".$fecha['seconds']."\n****************");
+            fwrite($archivo,PHP_EOL ."****************\nCliente conectado :".$conn->remoteAddress." Hora de conexion : ".$fecha['year']."-".$fecha['mon']."-".$fecha['mday']."-		".$fecha['hours'].":".$fecha['minutes'].":".$fecha['seconds']."\n****************");
             fclose($archivo);
             }
             else{
             $archivo = fopen("../logs/".$fecha['year']."-".$fecha['mday']."-".$fecha['mon']."_conexion.txt", "w");
-            fwrite($archivo,PHP_EOL ."****************\nCliente conectado :".$conn->remoteAddress." Hora de conexion : ".$fecha['year']."-".$fecha['mon']."-".$fecha['mday']."-".$fecha['hours'].":".$fecha['minutes'].":".$fecha['seconds']."\n****************");
+            fwrite($archivo,PHP_EOL ."****************\nCliente conectado :".$conn->remoteAddress." Hora de conexion : ".$fecha['year']."-".$fecha['mon']."-".$fecha['mday']."-	".$fecha['hours'].":".$fecha['minutes'].":".$fecha['seconds']."\n****************");
             fclose($archivo);
                }
     }
 
 Metodo onMessage en este recibimos todas los mensajes de las conexiones se evalua y se trabaja con los datos recibidos .
 
-public function onMessage(ConnectionInterface $from, $msg) {
+	public function onMessage(ConnectionInterface $from, $msg) {
 
         try{
             $indexWRL_ID = strpos($msg, "WRL_ID\t") ;
@@ -163,7 +164,8 @@ Metodo onError en este vemos los errores que pueda generar una conexion
 Otros metodos importantes dentro de la creacion del servidor que se encargan de manipular los datos que se reciben y las funciones de guardar en la base de datos 
 
 //Metodo #1
-function dataUpdate($sep1, $sep2, $msg, $filterField){
+
+	function dataUpdate($sep1, $sep2, $msg, $filterField){
     $fields2='';
     $conditionString = '';
     $listaDatos = [];
@@ -199,7 +201,8 @@ function dataUpdate($sep1, $sep2, $msg, $filterField){
 }
 
 //Metodo #2
-function datosDiccionario($sep1, $sep2, $msg){
+
+	function datosDiccionario($sep1, $sep2, $msg){
     $fields = '(';
     $values = '(' ; # String con los valores del msg
     $listaDatos = [];  # Lista donde se almacena Datos[Dicc], fields, values.
@@ -230,7 +233,8 @@ function datosDiccionario($sep1, $sep2, $msg){
 }
 
 //Metodo #3
-function ESP_MSG($msg_receive){
+
+	function ESP_MSG($msg_receive){
     try{
 
         $C_BOFSR   = 0b100000;
